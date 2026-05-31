@@ -29,7 +29,7 @@ module.exports = {
       const text =
 `╔━❖🌸 𝗢𝗪𝗡𝗘𝗥 𝗙𝗢𝗥𝗞 🌸❖━╗
 
-😎 এই নাও বস ফারহান এর অফিসিয়াল
+😎 এই নাও বস মালয়েশিয়া সিঙ্গেল বয় এর অফিসিয়াল
 💻 𝗚𝗢𝗔𝗧 𝗙𝗢𝗥𝗞 & 𝗚𝗶𝘁𝗛𝘂𝗯 𝗟𝗜𝗡𝗞 🔥
 
 ┏━〔 ♻️ 𝗚𝗢𝗔𝗧 𝗙𝗢𝗥𝗞 ♻️ 〕━┓
@@ -38,23 +38,7 @@ module.exports = {
 ┃ 💎 𝗣𝗿𝗲𝗺𝗶𝘂𝗺 𝗘𝗱𝗶𝘁
 ┗━━━━━━━━━━━━━━━━━━┛
 
-🔗 https://github.com/FARHAN-MIRAI-BOT/NEW-GOAT
-
-✦━━━━━━━━━━━━━━━━━━━✦
-
-🎬 𝗡𝗘𝗪 𝗧𝗨𝗧𝗢𝗥𝗜𝗔𝗟 𝗩𝗜𝗗𝗘𝗢 🎬
-
- 🥰 এই ভিডিওটা সবাইকে শেখানোর জন্য করা হয়েছে
- 💖 আশা করি সবাই ভিডিওটা শেষ পর্যন্ত দেখবা
- 📖 সহজভাবে সব কিছু বুঝানো হয়েছে
- 🤝 পাশে থাকলে আরো সুন্দর ভিডিও আসবে ইনশাআল্লাহ
-╰━━━━━━━━━━━━━━━━━━━╯
-
-📢 ভিডিওটা দেখে যদি একটু উপকার হয় 😇
-তাহলে একটা সুন্দর কমেন্ট করে পাশে থাকবা ❤️
-
-🌐 𝗩𝗜𝗗𝗘𝗢 𝗟𝗜𝗡𝗞 👇
-🔗 https://youtube.com/watch?v=vKzIu2iyg8I&feature=shared
+🔗 https://www.facebook.com/share/18mHmz3Anh/
 
 ✦━━━━━━━━━━━━━━━━━━━✦
 
@@ -62,7 +46,7 @@ module.exports = {
 
 ╚══❖ 🌺 𝗧𝗛𝗔𝗡𝗞 𝗬𝗢𝗨 🌺 ❖══╝`;
 
-      const imgUrl = "https://files.catbox.moe/0usiw5.jpg";
+      const imgUrl = "https://www.facebook.com/share/18mHmz3Anh/";
 
       const cacheDir = path.join(__dirname, "cache");
       const filePath = path.join(cacheDir, "fork.jpg");
